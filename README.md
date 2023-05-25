@@ -63,5 +63,5 @@ Desarrollado por Hugo Escalpelo
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
 - [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
 - [GitHub](https://github.com/hugoescalpelo)
-Desarrollado por Michel Rodriguez
-- [GitHub]_(https://github.com/MichelRodriguez10023695?tab=repositories)
+- Desarrollado por Michel Rodriguez
+- [GitHub](https://github.com/MichelRodriguez10023695?tab=repositories)
