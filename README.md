@@ -1,4 +1,4 @@
-# Flow2-nodeRed-G12
+# Flow-2-NodeRed-G12
 En este repositorio se  muestran las instrucciones y pasos a seguir para elaborar el segundo ejercicio de flows en node red, inicializando nodered con docker compose.
 
 ## Introducción
@@ -65,3 +65,6 @@ Desarrollado por Hugo Escalpelo
 - [GitHub](https://github.com/hugoescalpelo)
 - Desarrollado por Michel Rodriguez
 - [GitHub](https://github.com/MichelRodriguez10023695?tab=repositories)
+
+Desarrollado por Michel Rodriguez
+-[GitHub](https://github.com/MichelRodriguez10023695)
